@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "catmaply"]
 	path = catmaply
 	url = https://github.com/verkehrsbetriebezuerich/catmaply
-	shallow = true
-	registered = true
